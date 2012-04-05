@@ -10,7 +10,6 @@ module AlphaPag
           concat content_tag :li, link_to(letter, "?filter=#{letter == '#' ? 'num' : letter}")
         end
       end
-      return nil
     end
   end
 end
