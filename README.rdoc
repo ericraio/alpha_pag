@@ -1,6 +1,6 @@
 = alpha_pag
 
-Description goes here.
+Simple helper method to implement alphabetical pagination for you rails project.
 
 == Contributing to alpha_pag
  
